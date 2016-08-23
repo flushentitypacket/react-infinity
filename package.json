@@ -1,0 +1,25 @@
+{
+  "name": "react-infinity-scroll",
+  "version": "0.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --presets babel-preset-es2015 --out-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flushentitypacket/react-infinity-scroll.git"
+  },
+  "author": "Ronald Hong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flushentitypacket/react-infinity-scroll/issues"
+  },
+  "homepage": "https://github.com/flushentitypacket/react-infinity-scroll",
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1"
+  }
+}
